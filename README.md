@@ -1,3 +1,7 @@
+## Note
+
+Please read the file ReadMe_#2, in addition to this file.  It outlines the submitted project work.
+
 ## Introduction
 
 This assignment uses data from
